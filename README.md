@@ -1,2 +1,2 @@
-# reposiorio
- repositorio para 
+# Repositório de estudos!
+ repositório focado em estudos!
